@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 12.5rem;
+  background-color: var(--gray-700);
+}
+
+.title {
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.logo {
+  margin: 0 0.75rem 0 0;
+  height: 3rem;
+}
+
+.primary {
+  color: var(--blue);
+}
+
+.secondary {
+  color: var(--purple-dark);
+}

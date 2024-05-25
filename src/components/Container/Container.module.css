@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 46rem;
+  padding: 1rem;
+  margin: -4.875rem 0 0 0;
+}
+
+@media (min-width: 768px) {
+  .wrapper {
+    margin: -2.75rem 0 0 0;
+  }
+}

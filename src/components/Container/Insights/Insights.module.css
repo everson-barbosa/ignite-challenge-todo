@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 4rem 0 0 0;
+}
+
+.field {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.created {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 0.875rem;
+  line-height: auto;
+  color: var(--blue);
+}
+
+.done {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 0.875rem;
+  line-height: auto;
+  color: var(--purple);
+}
+
+.counter {
+  display: block;
+
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  padding: 0.125rem .5rem;
+  color: var(--gray-200);
+  background-color: var(--gray-400);
+  border-radius: 4rem;
+}
