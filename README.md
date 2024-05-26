@@ -7,6 +7,14 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+## :flying_saucer: Stacks
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+
 ## :rocket: Sobre o desafio
 
 
